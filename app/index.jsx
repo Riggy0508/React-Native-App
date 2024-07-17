@@ -37,7 +37,7 @@ export default function App() {
           </Text>
 
           <CustomButton
-            title="Continue with Email"
+            title="Continue with Email"git 
             handlePress={() => router.push("/sign-in")}
             containerStyles="w-full mt-7"
           />
